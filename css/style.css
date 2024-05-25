@@ -20,6 +20,13 @@ body{
     transform: translateX(-50%);
 }
 
+.card-bonus {
+    position: relative;
+    top: 25%;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
 .title h1, h2, h3{
     text-align: center;
     margin-top: 4%;
